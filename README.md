@@ -1,0 +1,1 @@
+# friendemic-setup-test
